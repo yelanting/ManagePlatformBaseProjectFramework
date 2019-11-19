@@ -4,39 +4,6 @@
 
 baseproject-framework后台权限管理系统是基于Spring Boot、Spring Cloud、Vue.js 、Element UI等主流前后端技术，采用前后端分离架构实现的权限管理系统。也是一款采用当前主流技术实现的界面优雅、架构优良、代码简洁、注释完善、基础功能相对完整的JAVA EE快速开发平台，前后端开发人员都可以以此为范例从中学习和汲取技术知识，也可以基于此系统开发和实现具体生产项目。
 
-此项目为笔者和清华大学出版社合作出版的专业书籍《Spring Boot+Spring Cloud+Vue+Element项目实战：手把手教你开发权限管理系统》的配套附件，附件内容包含书籍项目相关源码、数据库脚本、项目安装和运行教程等。
-
-#### 书籍封面
-
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0605/105405_69303b58_645970.png "sbscve.png")
-
-#### 书籍链接
-
-##### 京东 参考链接：
-
-[https://item.jd.com/49029589963.html](https://item.jd.com/49029589963.html)
-
-[https://item.jd.com/48751078393.html](https://item.jd.com/48751078393.html)
-
-##### 当当 参考链接：
-
-[http://product.dangdang.com/1438252364.html](http://product.dangdang.com/1438252364.html)
-
-##### 天猫 参考链接：
-
-[https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.a4721049QUevoi&id=595707200013](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.a4721049QUevoi&id=595707200013)
-
-[https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.6.a4721049QUevoi&id=596116466076](https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.6.a4721049QUevoi&id=596116466076)
-
-
-### 技术交流
-
-为了方便大家提问和技术交流，整了个QQ群，欢迎童鞋们加入。
-
-QQ技术交流群： 429854222
-
-笔者技术博客：[https://www.cnblogs.com/xifengxiaoma/](https://www.cnblogs.com/xifengxiaoma/)
-
 ### 功能列表
 
 ✔ 系统登录：系统用户登录，系统登录认证（token方式）
@@ -281,21 +248,3 @@ baseproject-framework-config： 配置中心服务端，演示分布式配置中
 如果需要链路追踪服务，需要安装zipkin，找到baseproject-framework-zipkin 工程，根据安装说明安装zipkin。
 
 如果需要配置中心服务，需要安装rabbitMQ，找到baseproject-framework-config 工程，根据安装说明安装rabbitMQ。
-
-
-### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
